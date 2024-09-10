@@ -30,7 +30,7 @@ I'm Folyd, an ex-Bytedancer and Rust enthusiast from Beijing, China. I love to b
 - [apache/arrow-rs](https://github.com/apache/arrow-rs/issues?q=author%3Afolyd)
 - [apache/datafusion](https://github.com/apache/datafusion/issues?q=author%3Afolyd)
 
-## 🍻 Articles I've written
+## 📝 Articles I've written
 
 - [2d2d.io Magazine articles](https://2d2d.io/@folyd/)
 - [Rust Magazine articles](https://rustmagazine.org/@folyd/)
