@@ -6,6 +6,7 @@ I'm Folyd, an ex-Bytedancer and Rust enthusiast from Beijing, China. I love to b
 
 | Name    | Url   |
 |:-----|-----------|
+|AIScript| https://aiscript.dev|
 |Query.rs| https://query.rs|
 |Rust Magazine| https://rustmagazine.org |
 |Rust Search Extension | https://rust.extension.sh |
