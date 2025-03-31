@@ -14,16 +14,6 @@ I'm Folyd, an ex-Bytedancer and Rust enthusiast from Beijing, China. I love to b
 |Paybase| https://paybase.cn |
 |Anyshortcut| https://anyshortcut.com |
 
-### 🦀 Rust crates I maintain:
-
-| Name    | Description   |
-|:-----|-----------|
-|[duo](https://github.com/duo-rs/duo)|A lightweight Logging and Tracing observability solution for Rust, built with Apache Arrow, Parquet and DataFusion |
-|[zine ](https://crates.io/crates/zine)   | A simple and opinionated tool to build your own magazine |
-|[genkit](https://crates.io/crates/genkit) | A common generator kit for static site generator |
-|[robotstxt](https://crates.io/crates/robotstxt)|A native Rust port of Google's robots.txt parser and matcher C++ library |
-|[variant_counter](https://crates.io/crates/variant_counter)| Rust's Enum variant counter |
-
 ## 🌟 Rust projects I've contributed to most:
 
 - [rust-lang/rust](https://github.com/rust-lang/rust/issues?q=author%3Afolyd)
