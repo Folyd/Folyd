@@ -7,6 +7,7 @@ I'm Folyd, an ex-Bytedancer and Rust enthusiast from Beijing, China. I love to b
 | Name    | Url   |
 |:-----|-----------|
 | Geddle | https://geddle.com |
+| Meiguo.app | https://meiguo.app |
 | Arrfounder | https://arrfounder.com |
 | Aiberm | https://aiberm.com |
 |AIScript| https://aiscript.dev|
